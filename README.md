@@ -1,6 +1,6 @@
 # GitFisher
 ## Python
-A small application to clone public repos of specified accounts. 
+A small application to clone public repos of specified accounts. This project is a **work in progress** and may not contain anything
 
 ### Setup 
 ----
